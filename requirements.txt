@@ -3,4 +3,5 @@ python-dotenv>=1.0
 requests>=2.25
 newspaper3k>=0.2.8
 gunicorn
+lxml_html_clean
 
