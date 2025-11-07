@@ -1,0 +1,30 @@
+body {
+  background-color: #f8f9fa;
+}
+
+.navbar .nav-link.active {
+  color: #0d6efd !important;
+  font-weight: bold;
+}
+
+.carousel-item img {
+  height: 450px;
+  object-fit: cover;
+}
+
+.carousel-caption {
+  bottom: 30px;
+}
+
+.card:hover {
+  transform: translateY(-5px);
+  transition: all 0.3s ease;
+}
+
+.card-text {
+  font-size: 0.9rem;
+}
+
+footer {
+  font-size: 0.9rem;
+}
