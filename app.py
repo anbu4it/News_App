@@ -8,7 +8,7 @@ from requests.exceptions import RequestException
 from flask import Flask, render_template, abort
 from dotenv import load_dotenv
 from newspaper import Article
-from datetime import datetime
+
 
 # --------------------------
 # Load environment variables
